@@ -1,0 +1,16 @@
+archive
+node_modules
+
+.idea/.name
+
+.idea/encodings.xml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/vcs.xml
+
+.idea/Wall.iml
+
+.idea/workspace.xml
